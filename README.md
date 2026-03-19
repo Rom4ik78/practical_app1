@@ -50,9 +50,9 @@ are significantly more likely to accept coupons.
 ## ✅ Conclusion
 The analysis demonstrates that contextual and behavioral variables play a crucial role in decision-making.
 This insight can be used to:
--improve targeted marketing strategies
--increase coupon conversion rates
--personalize offers based on user behavior
+- improve targeted marketing strategies
+- increase coupon conversion rates
+- personalize offers based on user behavior
 
 ## 🚀 How to Run
 
